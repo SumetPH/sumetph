@@ -10,6 +10,7 @@
 ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![image](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![image](https://img.shields.io/badge/flutter-02589B?style=for-the-badge&logo=flutter&logoColor=white)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumetph&theme=dark)](https://git.io/streak-stats)
 
